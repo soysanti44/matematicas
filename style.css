@@ -1,0 +1,30 @@
+body{
+    background-color: lightcoral;
+}
+.login_div1,.login_div2 {
+    background-color: lightcyan;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#button {
+    background-color: lime;
+}
+#word
+{
+    width: 60%;
+}
+#word_display
+{
+    letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+ 
